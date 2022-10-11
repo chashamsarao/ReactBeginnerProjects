@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Cmain {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  background-color: aqua;
+  min-height: 50vh;
+}
+
+.screen input{
+  margin: 1em;
+  width: auto;
+  height: 2em;
+}
+
+form {
+  justify-items: left;
+
+}
+
+form button {
+  display: inline-block;
+  height: 3em;
+  width: 3em;
+  justify-items: left;
+  padding : 2em 5em;
+  /* margin: 5em; */
+}
